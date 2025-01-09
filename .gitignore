@@ -1,2 +1,4 @@
 .git
 sendmail.sh
+logs/
+motionplus-startup.log
